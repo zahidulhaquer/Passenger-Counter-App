@@ -4,11 +4,11 @@ body {
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
   font-weight: bold;
   text-align: center;
-  height: 100vh;
+  /* height: 100vh; */
 }
 
 .wrapper {
-  margin: 240px auto;
+  margin: 200px auto;
   max-width: 24%;
   /* margin: auto; */
   border: 3px solid rgb(90, 31, 31);
